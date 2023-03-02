@@ -22,6 +22,7 @@
 
 <h2>Tela inicial</h2> 
 
+https://user-images.githubusercontent.com/31187727/222293148-17ff92d7-de7c-44a6-98b0-ab9ba1365f08.mp4
 
 <br>
 
@@ -30,7 +31,7 @@
 
 <h2>Tobey Maguire</h2> 
 
-
+https://user-images.githubusercontent.com/31187727/222307364-72e3e33f-1f1a-4060-82ac-34a525b373be.mp4
 
 <br>
 
@@ -39,7 +40,7 @@
 
 <h2>Andrew Garfield</h2> 
 
-
+https://user-images.githubusercontent.com/31187727/222307903-a29b68cd-6a24-460e-8d50-fa19bde0a0f7.mp4
 
 <br>
 
@@ -48,7 +49,7 @@
 
 <h2>Tom Holland</h2> 
 
-
+https://user-images.githubusercontent.com/31187727/222309108-61f8e68a-adcb-4c55-9af3-5c2e807c53ad.mp4
 
 <br>
 
